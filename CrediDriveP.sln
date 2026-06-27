@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrediDriveP.API", "CrediDriveP.API\CrediDriveP.API.csproj", "{37AB1003-0325-4475-A00E-889B32C36860}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37AB1003-0325-4475-A00E-889B32C36860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37AB1003-0325-4475-A00E-889B32C36860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37AB1003-0325-4475-A00E-889B32C36860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37AB1003-0325-4475-A00E-889B32C36860}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
